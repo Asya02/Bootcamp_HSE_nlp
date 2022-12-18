@@ -1,4 +1,4 @@
-# Multiclass sentiment analysis 
+# Multiclass sentiment analysis
 
 Data from banki.ru
 
@@ -12,7 +12,7 @@ F1
  * Public: 0.77601 
  * Private: 0.79285
 
-7 место
+7 место DL трек
 
 ### Используемые инструменты
  * pandas
